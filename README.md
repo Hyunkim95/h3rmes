@@ -1,24 +1,3 @@
-# README
+# H3rmes
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+H3rmes was the winning entry to the Facebook Regional Hackathon - this web application is coupled with a messenger bot. As we are still looking into adding more features and are potentially releasing it as a product we are with helding parts of the application
